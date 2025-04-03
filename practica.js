@@ -1,6 +1,6 @@
 /*
 jassiel alejandro talavera cota 
-yael alexis garcia reyes
+yael alexis garcia 
 
 
 
